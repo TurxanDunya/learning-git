@@ -40,6 +40,8 @@ public class Student {
     @JoinColumn(name = "student_id")
     private List<Teacher> teacherId = new ArrayList<>();
 
+
+    
     public Student() {
     }
 
