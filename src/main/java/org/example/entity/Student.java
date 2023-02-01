@@ -99,6 +99,7 @@ public class Student {
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
                 ", gender=" + gender +
+                ", teacherId=" + teacherId +
                 '}';
     }
 }
